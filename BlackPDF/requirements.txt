@@ -1,0 +1,8 @@
+# PyQt5版本（可能在某些Linux发行版上有插件问题）
+# PyQt5>=5.15.0
+
+# PySide6版本（推荐用于Arch Linux）
+PySide6>=6.5.0
+
+# PDF处理库
+PyMuPDF>=1.23.0
